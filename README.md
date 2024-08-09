@@ -3,9 +3,10 @@
 
 ## **Overview**
 
-Welcome to **WearIt** – the ultimate platform for customizing your t-shirt designs! With WearIt, you can effortlessly personalize your shirts by changing colors, adding custom logos, and even generating unique designs with DALL·E. Look below images to understand more clearly.
+Welcome to **WearIt** – the ultimate platform for customizing your t-shirt designs in 3D! With WearIt, you can effortlessly personalize your shirts by changing colors, adding custom logos, and even generating unique designs with DALL·E. Look below images to understand more clearly.
 
 ![Screenshot 2024-08-09 225205](https://github.com/user-attachments/assets/924c4145-59ae-4ac0-a2b3-81a9f165363c)
+
 ![Screenshot 2024-08-09 225306](https://github.com/user-attachments/assets/cf18e08a-cb46-4fa2-bf8e-c3651d71b1be)
 
 ## **Features**
