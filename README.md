@@ -72,7 +72,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## **Contact**
 
-For any inquiries or support, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or support, please reach out to [your-email@example.com](mailto:adityandmb@gmail.com).
 
 Thank you for checking out WearIt! We hope you enjoy creating your unique t-shirt designs. Happy customizing!
 
